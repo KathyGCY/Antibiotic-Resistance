@@ -1,0 +1,2 @@
+Batch 1 through 3 haven’t taken into consideration the Bacteria learning resistance;
+Batch 4 through 6 consider mutation and ATB Resistance;
