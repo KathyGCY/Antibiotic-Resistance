@@ -19,13 +19,13 @@ Now that we know the mechanisms, how do we programme the process?
 Let’s go back to the “Table-Top Exercises”, freeze the image to see what happens within one loop. Combining that with the zoomed in image, we now have several claims that helps us revise my simulation to make it more realistic.
 
 # What Happens Within Loop?
-# Two Things Always Happen:
+## Two Things Always Happen:
 1. Bacteria Multiplication:
 Exponential Growth with a volatility term;
 2. Immune System Fighting:
 Kill a small proportion of bacteria in each loop;
 
-# Two Things Might Happen:
+## Two Things Might Happen:
 3. Antibiotic Injected:
 Kills a Large proportion of bacteria in this specific loop;
 4. Bacteria leaning “Resistance”
@@ -33,22 +33,22 @@ To Be Continued…
 
 # Antibiotic Resistance
 
-# Learning Steps:
+## Learning Steps:
 1. In each loop, a small proportion of bacteria MUTATES;
 2. Each Mutant has a small chance of gaining the Resistance ability;
 3. Once “learned”, never “forgets”.
 
-# Resisting Steps:
+## Resisting Steps:
 1. “Resistance” is an ability to resist one or several antibiotics;
 2. “Resistance” is an ability that LOWERS but NOT ELIMINATE the chance of being killed by that one or several antibiotics that it is resistant to.
 
 # When We Drop The Curtain:
-# “WIN”: 
+## “WIN”: 
 1. Bacteria eliminated;
 2. Number of bacteria lower than threshold;
 3. Coexist.
 
-# “LOSE”:
+## “LOSE”:
 1. Ready for a REMATCH;
 2. R.I.P.
 3. Resuscitation (?)
